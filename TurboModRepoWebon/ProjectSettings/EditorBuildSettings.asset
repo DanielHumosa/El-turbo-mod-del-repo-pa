@@ -7,11 +7,11 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Main/Main.unity
-    guid: c2d2cf961a8d86043b6ebc447b655bce
+    guid: 4dad5a9fb087aa04099c2083ec474b94
   - enabled: 1
     path: Assets/Scenes/Reload/Reload.unity
-    guid: 949916f785070d64b8d0f483b63f97fc
+    guid: 4757d43e0e7342446b43d63ec2e8592a
   - enabled: 1
     path: Assets/Scenes/Reload/LobbyJoin.unity
-    guid: f63bfbba2c73f3b46b281cd7539cbaee
+    guid: f398c94ed60383446a7359c26309f0cc
   m_configObjects: {}

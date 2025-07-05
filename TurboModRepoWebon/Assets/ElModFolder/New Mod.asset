@@ -9,15 +9,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1549797422, guid: 4e8fb8ee8e5eaac4fa69204bfacdc112, type: 3}
+  m_Script: {fileID: -1549797422, guid: 348da4120d66e294286ecbc664b8f7f2, type: 3}
   m_Name: New Mod
   m_EditorClassIdentifier: 
-  _name: Turbo_Mod
-  _author: Insecto Laboratories
-  _version: 0.0.1
-  _description: Re epico mano
+  _name: 
+  _author: 
+  _version: 1.0.0
+  _description: 
   _websiteUrl: 
   _dependencies:
   - Zehs-REPOLib-2.1.0
-  _icon: {fileID: 21300000, guid: d76d5ccdc56946847a2e8ddca7eedcb6, type: 3}
+  _icon: {fileID: 0}
   _readme: {fileID: 0}
